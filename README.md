@@ -57,8 +57,54 @@ Input here
 <br>
 
 # Resources:
+
+```
+# IMPORT
+
+import numpy as np
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+```
+
 ```
 # READ .CSV TO PANDAS DATAFRAME (DF)
 
 df = pd.read_csv('user/data_set.csv')
+```
+
+```
+# DATA STRUCTURES
+
+
+# LIST
+list = ['1', '2', '3', 'a', 'b', 'c']
+
+
+# DICTIONARY
+dict = {'a': 199, 'b': 200, 'c', 201}
+
+command:
+dict
+
+output:
+{'1': a, 'b': 200, 'c':201}
+
+command:
+dict['a']
+
+output:
+a
+
+
+
+# SERIES
+s = pd.Series(np.random.randn(5), index=["a", "b", "c", "d", "e"])
+s
+
+a    0.469112
+b   -0.282863
+c   -1.509059
+d   -1.135632
+e    1.212112
 ```
