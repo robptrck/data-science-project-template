@@ -76,35 +76,43 @@ df = pd.read_csv('user/data_set.csv')
 ```
 # DATA STRUCTURES
 
-
 # LIST
 list = ['1', '2', '3', 'a', 'b', 'c']
+
 
 
 # DICTIONARY
 dict = {'a': 199, 'b': 200, 'c', 201}
 
-command:
+# DICTIONARY COMMAND
 dict
 
-output:
+# OUTPUT
 {'1': a, 'b': 200, 'c':201}
 
-command:
+# DICTIONARY COMMAND
 dict['a']
 
-output:
+# OUTPUT
 a
 
 
 
 # SERIES
 s = pd.Series(np.random.randn(5), index=["a", "b", "c", "d", "e"])
+
+# SERIES COMMAND
 s
 
+# SERIES OUTPUT
 a    0.469112
 b   -0.282863
 c   -1.509059
 d   -1.135632
 e    1.212112
+
+
+
+# DATAFRAME (DF)
+# SIMILAR TO EXCEL TABLE
 ```
