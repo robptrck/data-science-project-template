@@ -125,3 +125,19 @@ DataFrame.describe()
 
 
 ```
+
+```
+# SEABORN
+
+# REQUIRED
+pip install seaborn
+
+import seaborn as sns
+import matplotlib.pyplot as plt
+%matplotlib inline
+
+df= seaborn.load_dataset({file_name}.csv on https://github.com/username/repository-name)
+
+```
+
+
