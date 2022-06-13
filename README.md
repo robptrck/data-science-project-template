@@ -22,7 +22,7 @@ Tools used: AWS Athena, AWS SageMaker Studio
 <br>
 
 ### Step 3: Modeling (optional)
-Tools used: AWS SageMaker Studio Autopilot
+Tools used: AWS SageMaker Autopilot
 <br>
 <br>
 
@@ -33,18 +33,32 @@ Tools used: AWS Quicksight, Tableau
 <br>
 
 # Step 1: Ingest
+Input here
 <br>
 <br>
 <br>
 
 # Step 2: EDA
+Input here
 <br>
 <br>
 <br>
 
 # Step 4: Modeling (optional)
+Input here
 <br>
 <br>
 <br>
 
 # Step 5: Conclusion
+Input here
+<br>
+<br>
+<br>
+
+# Resources:
+```
+# READ .CSV TO PANDAS DATAFRAME (DF)
+
+df = pd.read_csv('user/data_set.csv')
+```
