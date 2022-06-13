@@ -1,5 +1,5 @@
 # Project description
-Accurately describe what it is, what it is trying to solve. And it's core ideas (the functionality). And if possible, examples of those.
+Accurately describe what it is, what it is trying to solve, and it's core ideas (the functionality). If possible, include examples of those.
 <br>
 <br>
 <br>
