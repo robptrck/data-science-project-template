@@ -4,6 +4,12 @@ Accurately describe what it is, what it is trying to solve, and it's core ideas 
 <br>
 <br>
 
+# Video walkthrough
+Insert video
+<br>
+<br>
+<br>
+
 # Full code here
 Link to colab or sagemaker studio lab with reproducable work.
 <br>
