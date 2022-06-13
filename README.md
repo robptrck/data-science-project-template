@@ -6,7 +6,7 @@ Accurately describe what it is, what it is trying to solve, and it's core ideas 
 <br>
 
 # Full code here
-Link to colab or sagemaker studio lab with reproducable jupyter notebook
+Link to colab or sagemaker studio lab with reproducable work.
 <br>
 <br>
 <br>
