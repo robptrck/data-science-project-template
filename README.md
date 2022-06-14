@@ -38,7 +38,7 @@ Tools used: AWS SageMaker Autopilot
 <br>
 
 ### Step 5: Data Visualizations & Conclusions
-Tools used: AWS Quicksight, Tableau
+Tools used: AWS Quicksight, Tableau, Seaborn
 <br>
 <br>
 <br>
