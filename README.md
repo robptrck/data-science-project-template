@@ -22,6 +22,11 @@ Tools used: AWS S3, AWS Glue, AWS Athena
 <br>
 <br>
 
+### Step 2: Clean & Transform
+Tools used: AWS Athena, AWS SagemakerStudio
+<br>
+<br>
+
 ### Step 2: EDA (Exploratory Data Analysis)
 Tools used: AWS Athena, AWS SageMaker Studio
 <br>
@@ -40,6 +45,18 @@ Tools used: AWS Quicksight, Tableau
 
 # Step 1: Ingest
 Input here
+<br>
+<br>
+<br>
+
+# Step 2: Data Cleaning & Transformation
+Check for:
+* Correct data Types
+* Missing Data
+* Formatting issues
+* Outliers
+* Unique values 
+  - (check for mispellings)
 <br>
 <br>
 <br>
