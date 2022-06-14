@@ -37,7 +37,7 @@ Tools used: AWS SageMaker Autopilot
 <br>
 <br>
 
-### Step 5: Conclusion
+### Step 5: Data Visualizations & Conclusions
 Tools used: AWS Quicksight, Tableau
 <br>
 <br>
@@ -143,6 +143,7 @@ e    1.212112
 # SIMILAR TO EXCEL TABLE
 ```
 
+Common use
 ```
 # EXPLORATORY DATA ANALYSIS
 
