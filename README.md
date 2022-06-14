@@ -11,7 +11,7 @@ Insert video
 <br>
 
 # Full code here
-Link to colab or sagemaker studio lab with reproducable work.
+Link to colab or sagemaker studio lab with reproducable code.
 <br>
 <br>
 <br>
