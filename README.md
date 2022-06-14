@@ -61,7 +61,6 @@ Check for:
 * Is the data of high quality? Are there bias in the data?
 <br>
 <br>
-<br>
 
 # Step 3: EDA (Exploratory Data Analysis)
 Input here
