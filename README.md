@@ -146,4 +146,15 @@ import matplotlib.pyplot as plt
 df = seaborn.load_dataset({file_name}.csv on https://github.com/username/repository-name)
 ```
 
+# Try this in seaborn
+```
+sns.set()
+sns.set_context("notebook", rc={"lines.linewidth": 1.5})
+sns.set_style("whitegrid")
 
+plt.xlabel("X LABEL", fontsize=16)
+plt.ylabel("Y LABEL", fontsize=16)
+plt.title("MY TITLE", fontsize=20)
+
+sns.histplot(data=df, x="column_name", kde=True)
+```
