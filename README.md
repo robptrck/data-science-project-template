@@ -158,3 +158,13 @@ plt.title("MY TITLE", fontsize=20)
 
 sns.histplot(data=df, x="column_name", kde=True)
 ```
+
+# Transform object to datetime
+
+```
+# convert timestamp from object to datetime
+
+df['col_name'] = pd.to_datetime(df['col_name'])
+
+df.dtypes
+```
