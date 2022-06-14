@@ -18,7 +18,7 @@ Link to colab or sagemaker studio lab with reproducable code.
 
 # Data Science Workflow
 ### Step 1: Ingest
-Tools used: AWS S3, AWS Glue, AWS Athena
+Tools used: AWS Kinesis, AWS Cloudwatch, AWS S3, AWS Glue, AWS Athena
 <br>
 <br>
 
