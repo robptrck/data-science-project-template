@@ -27,17 +27,17 @@ Tools used: AWS Athena, AWS SagemakerStudio
 <br>
 <br>
 
-### Step 2: EDA (Exploratory Data Analysis)
+### Step 3: EDA (Exploratory Data Analysis)
 Tools used: AWS Athena, AWS SageMaker Studio
 <br>
 <br>
 
-### Step 3: Modeling (optional)
+### Step 4: Modeling (optional)
 Tools used: AWS SageMaker Autopilot
 <br>
 <br>
 
-### Step 4: Conclusion
+### Step 5: Conclusion
 Tools used: AWS Quicksight, Tableau
 <br>
 <br>
@@ -63,7 +63,7 @@ Check for:
 <br>
 <br>
 
-# Step 2: EDA
+# Step 3: EDA (Exploratory Data Analysis)
 Input here
 <br>
 <br>
@@ -75,7 +75,7 @@ Input here
 <br>
 <br>
 
-# Step 5: Conclusion
+# Step 5: Data Visualizations & Conclusions
 Input here
 <br>
 <br>
