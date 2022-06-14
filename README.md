@@ -57,6 +57,8 @@ Check for:
 * Outliers
 * Unique values 
   - (check for mispellings)
+* Upstream issues (data collection, software bugs)
+* Is the data of high quality? Are there bias in the data?
 <br>
 <br>
 <br>
@@ -94,7 +96,7 @@ import matplotlib.pyplot as plt
 ```
 # READ .CSV TO PANDAS DATAFRAME (DF)
 
-df = pd.read_csv('user/data_set.csv')
+df = pd.read_csv('/user/folder/data_set.csv')
 ```
 
 ```
